@@ -24,7 +24,7 @@ Product Category,
 Orders,
 Amount 
 
-**Technologies Used**
+# Technologies Used**
 
 Python,
 Pandas,
@@ -83,9 +83,7 @@ Deploy the project as a web application.
 
 This project provides meaningful insights into customer behavior during Diwali sales and helps businesses make data-driven decisions to improve customer engagement and revenue generation.
 
-Author
-
-**Your Name**
+**Author**
 
 **Kashish Mishra**
 
