@@ -42,7 +42,7 @@ Dropped unnecessary columns
 
 Corrected data types
 
-3. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
    
 Gender-based purchasing analysis
 
@@ -54,7 +54,7 @@ Occupation analysis
 
 Product category analysis
 
-5. Data Visualization
+3. Data Visualization
 
 Created visualizations using:
 
