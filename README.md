@@ -12,23 +12,26 @@ Dataset
 
 The dataset contains customer purchase information such as:
 
-User ID
-Gender
-Age Group
-State
-Marital Status
-Occupation
-Product Category
-Orders
-Amount Spent
+User ID,
+Gender,
+Age Group,
+State,
+Marital Status,
+Occupation,
+Product Category,
+Orders,
+Amount 
+
 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 Jupyter Notebook
+
 Project Workflow
+
 1. Data Cleaning
 Removed null values
 Dropped unnecessary columns
@@ -44,7 +47,9 @@ Product category analysis
 Created visualizations using:
 
 Bar charts
+
 Count plots
+
 Histograms
 
 Key Insights
@@ -63,6 +68,8 @@ This project provides meaningful insights into customer behavior during Diwali s
 
 Author
 
-Your Name 
+Your Name
+
 Kashish Mishra
+
 Data Analyst | Python Enthusiast
