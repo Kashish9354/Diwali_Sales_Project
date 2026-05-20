@@ -1,8 +1,8 @@
-**Overview**
+# Overview
 
 This project analyzes Diwali sales data to uncover customer purchasing behavior, sales trends, and business insights. The analysis helps businesses understand customer preferences during the Diwali festive season and improve marketing strategies, inventory management, and sales performance.
 
-**Objectives**
+# Objectives
 
 Perform data cleaning and preprocessing
 Analyze customer demographics
@@ -10,9 +10,9 @@ Identify top-selling products and categories
 Discover purchasing patterns
 Generate business insights using data visualization
 
-**Dataset**
+# Dataset
 
-The dataset contains customer purchase information such as:
+**The dataset contains customer purchase information such as:**
 
 User ID,
 Gender,
@@ -33,7 +33,7 @@ Matplotlib,
 Seaborn,
 Jupyter Notebook
 
-**Project Workflow**
+# Project Workflow
 
 **1. Data Cleaning**
    
@@ -61,7 +61,7 @@ Jupyter Notebook
 
   Bar charts, Count plots , Histograms
 
-**Key Insights**
+# Key Insights
 
 Married women aged 26–35 years contributed the highest sales. 
 
@@ -85,8 +85,8 @@ This project provides meaningful insights into customer behavior during Diwali s
 
 Author
 
-Your Name
+**Your Name**
 
 **Kashish Mishra**
 
-Data Analyst | Python Enthusiast
+**Data Analyst | Data Science**
