@@ -24,7 +24,7 @@ Product Category,
 Orders,
 Amount 
 
-# Technologies Used**
+# Technologies Used
 
 Python,
 Pandas,
